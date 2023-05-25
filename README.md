@@ -8,11 +8,13 @@ Keep in mind that some packages must be installe for them to work.
 ## Tools
 
 - create_full_user:
+
   Basically creates a new user with my favourite chmod home permisions (770), it configures oh-my-zsh with antigen plugin manager as well as NvChad with my custom configurations
 
 ## Installation
 
 - Execute this command as root user:
+
   `git clone https://github.com/adrian-cancio/root-utils /root/utils/`
 
 ## Disclaimer
